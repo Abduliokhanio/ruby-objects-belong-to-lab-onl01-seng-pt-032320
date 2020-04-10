@@ -4,6 +4,7 @@ class Post
   
   def initialize
     self.title = title
+    self.author = author
   end
   
 end
