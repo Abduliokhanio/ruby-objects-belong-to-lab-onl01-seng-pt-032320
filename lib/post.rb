@@ -6,6 +6,6 @@ class Post
     self.title = title
   end
   
-  
+  self.author = author
   
 end
